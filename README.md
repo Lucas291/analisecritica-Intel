@@ -1,4 +1,4 @@
-Analise Critica de Case de Sucesso sobre Scrum - Intel - PROJETO SCRUM MASTER DIO 
+#Analise Critica de Case de Sucesso sobre Scrum - Intel - PROJETO SCRUM MASTER DIO 
 Antes da Intel implementar o framework Scrum, a empresa carregava um histórico vasto de problemas, 
 como excesso de requisitos, cronogramas perdidos, semanas de trabalho insanas, baixa moral e alta 
 taxa de rotatividade. Esses fatores dificultavam o processo de agilidade que o Scrum visa proporcionar. 
